@@ -20,7 +20,7 @@ public class TempInfo {
         if (random.nextInt(10) == 0) {
             throw new RuntimeException("Error!");
         }
-        return new TempInfo(town, random.nextInt(40));
+        return new TempInfo(town, random.nextInt(100));
     }
 
     @Override

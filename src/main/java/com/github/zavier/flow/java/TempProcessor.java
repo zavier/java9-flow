@@ -1,4 +1,6 @@
-package com.github.zavier.flow;
+package com.github.zavier.flow.java;
+
+import com.github.zavier.flow.TempInfo;
 
 import java.util.concurrent.Flow;
 
